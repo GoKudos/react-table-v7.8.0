@@ -1,11 +1,11 @@
 {
-  "name": "react-table",
+  "name": "react-table-v7.8.0",
   "version": "7.8.0",
   "description": "Hooks for building lightweight, fast and extendable datagrids for React",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaredLo/react-table-v7.git"
+    "url": "https://github.com/jaredLo/react-table-v7.8.0.git"
   },
   "keywords": [
     "react",
